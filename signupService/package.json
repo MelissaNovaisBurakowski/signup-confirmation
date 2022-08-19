@@ -1,0 +1,33 @@
+{
+  "name": "signup-confirmation",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000s\u0000i\u0000g\u0000n\u0000u\u0000p\u0000-\u0000c\u0000o\u0000n\u0000f\u0000i\u0000r\u0000m\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelissaNovaisBurakowski/signup-confirmation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MelissaNovaisBurakowski/signup-confirmation/issues"
+  },
+  "homepage": "https://github.com/MelissaNovaisBurakowski/signup-confirmation#readme",
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/express": "^4.17.13",
+    "@types/node": "^18.7.6",
+    "nodemon": "^2.0.19",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "axios": "^0.21.4",
+    "express": "^4.18.1"
+  }
+}

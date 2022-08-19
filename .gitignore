@@ -1,0 +1,5 @@
+signupService/node_modules
+signupService/build
+emailService/node_modules
+emailService/build
+emailService/.env
